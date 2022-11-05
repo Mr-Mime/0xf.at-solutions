@@ -9,7 +9,7 @@
 ---
 
 ### My progress so far:  
-![Progress](https://progress-bar.dev/19/?scale=38&suffix=/38)
+![Progress](https://progress-bar.dev/20/?scale=38&suffix=/38)
 
 ### List of solved hackits
 You can click on the ![solved](https://img.shields.io/badge/-solved-brightgreen) badge in the table to open the general solution written as a short text.
