@@ -12,4 +12,4 @@ function checkPW() {
 ```
 
 Thus the solution is the length of the `pwinfo` string.
-
+![image](https://user-images.githubusercontent.com/37423773/200136807-80cbeaf1-6ba7-4d1b-99e5-be367ab68ca5.png)
