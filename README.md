@@ -17,10 +17,10 @@ For the solution of each programming language, just click on the icon of the lan
 
 | # | Name | Type | Status | Languages |
 | - | - | - | - | - | 
-| 1 | Easy beginnings | JavaScript | ![solved](https://img.shields.io/badge/-solved-brightgreen) |
-| 2 | JavaScript: Do you speak it?  | JavaScript | ![solved](https://img.shields.io/badge/-solved-brightgreen) |
-| 3 | Without sourcecode | JavaScript | ![solved](https://img.shields.io/badge/-solved-brightgreen) |
-| 4 | Length matters | JavaScript | ![solved](https://img.shields.io/badge/-solved-brightgreen) |
+| 1 | Easy beginnings | JavaScript | <a href="https://github.com/Mr-Mime/0xf.at-solutions/tree/main/levels/01">![solved](https://img.shields.io/badge/-solved-brightgreen)</a> |
+| 2 | JavaScript: Do you speak it?  | JavaScript | <a href="https://github.com/Mr-Mime/0xf.at-solutions/tree/main/levels/02">![solved](https://img.shields.io/badge/-solved-brightgreen)</a> |
+| 3 | Without sourcecode | JavaScript | <a href="https://github.com/Mr-Mime/0xf.at-solutions/tree/main/levels/03">![solved](https://img.shields.io/badge/-solved-brightgreen)</a> |
+| 4 | Length matters | JavaScript | <a href="https://github.com/Mr-Mime/0xf.at-solutions/tree/main/levels/04">![solved](https://img.shields.io/badge/-solved-brightgreen)</a> |
 | 5 | ASCII fun | JavaScript | ![solved](https://img.shields.io/badge/-solved-brightgreen) |
 | 6 | Color codes | JavaScript | ![solved](https://img.shields.io/badge/-solved-brightgreen) |
 | 7 | Jerry's screw-up | Logic | ![solved](https://img.shields.io/badge/-solved-brightgreen) |
